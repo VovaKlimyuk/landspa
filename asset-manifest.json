@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/landspa/static/css/main.a281a9d0.css",
+    "main.js": "/landspa/static/js/main.a45cd47a.js",
+    "static/media/block1.jpg": "/landspa/static/media/block1.63b3cd8a377eac52adde.jpg",
+    "static/media/background-image-landspace.jpg": "/landspa/static/media/background-image-landspace.facebabe671b5c134ea8.jpg",
+    "static/media/block7.jpg": "/landspa/static/media/block7.2c35bd518f1237db8a85.jpg",
+    "static/media/landspace-kruvuy.jpg": "/landspa/static/media/landspace-kruvuy.47e67786b6bdb83eebf7.jpg",
+    "static/media/block6.jpg": "/landspa/static/media/block6.5ef99713cec3e8a286b5.jpg",
+    "static/media/block8.jpg": "/landspa/static/media/block8.d4ad7eabeb518a2e5a48.jpg",
+    "static/media/block9.jpg": "/landspa/static/media/block9.9439a665ee9a136f261c.jpg",
+    "static/media/block3.jpg": "/landspa/static/media/block3.e1cc690994ad3c422748.jpg",
+    "static/media/block5.jpg": "/landspa/static/media/block5.d25964ad2447656c2faa.jpg",
+    "static/media/block1_5.jpg": "/landspa/static/media/block1_5.31c010096ad80ed3e9b5.jpg",
+    "static/media/block1_4.jpg": "/landspa/static/media/block1_4.5a410eaafc7e4e331eb9.jpg",
+    "static/media/block2.jpg": "/landspa/static/media/block2.f931c1a6c099aa721598.jpg",
+    "static/media/block1_1.jpg": "/landspa/static/media/block1_1.1c35d6a1c045b00df9b6.jpg",
+    "static/media/block4.jpg": "/landspa/static/media/block4.b9d040712a9ea020f5ca.jpg",
+    "static/media/block1_3.jpg": "/landspa/static/media/block1_3.35822f8b1a0b8753141a.jpg",
+    "static/media/block1_2.jpg": "/landspa/static/media/block1_2.97b3be0de334589c08fd.jpg",
+    "static/media/block1_6.jpg": "/landspa/static/media/block1_6.d5f8bc21d90145420b4e.jpg",
+    "static/media/landspace-rivnuy.jpg": "/landspa/static/media/landspace-rivnuy.4dcc4060c5d6037106ef.jpg",
+    "static/media/logo.png": "/landspa/static/media/logo.bf49e76ba06ac373b03f.png",
+    "index.html": "/landspa/index.html",
+    "main.a281a9d0.css.map": "/landspa/static/css/main.a281a9d0.css.map",
+    "main.a45cd47a.js.map": "/landspa/static/js/main.a45cd47a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a281a9d0.css",
+    "static/js/main.a45cd47a.js"
+  ]
+}
