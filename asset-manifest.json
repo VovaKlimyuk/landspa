@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landspa/static/css/main.bfdf8974.css",
-    "main.js": "/landspa/static/js/main.59fee45d.js",
+    "main.css": "/landspa/static/css/main.dfef7aba.css",
+    "main.js": "/landspa/static/js/main.a88670af.js",
     "static/media/block1.jpg": "/landspa/static/media/block1.63b3cd8a377eac52adde.jpg",
     "static/media/background-image-landspace.jpg": "/landspa/static/media/background-image-landspace.facebabe671b5c134ea8.jpg",
     "static/media/block7.jpg": "/landspa/static/media/block7.2c35bd518f1237db8a85.jpg",
@@ -31,11 +31,11 @@
     "static/media/block1_9.jpg": "/landspa/static/media/block1_9.52de842b1d5e1679be2f.jpg",
     "static/media/block1_10.jpg": "/landspa/static/media/block1_10.fee0d9d58a0e0f9d1327.jpg",
     "index.html": "/landspa/index.html",
-    "main.bfdf8974.css.map": "/landspa/static/css/main.bfdf8974.css.map",
-    "main.59fee45d.js.map": "/landspa/static/js/main.59fee45d.js.map"
+    "main.dfef7aba.css.map": "/landspa/static/css/main.dfef7aba.css.map",
+    "main.a88670af.js.map": "/landspa/static/js/main.a88670af.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfdf8974.css",
-    "static/js/main.59fee45d.js"
+    "static/css/main.dfef7aba.css",
+    "static/js/main.a88670af.js"
   ]
 }
